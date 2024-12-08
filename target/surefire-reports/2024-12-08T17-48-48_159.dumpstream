@@ -1,0 +1,5 @@
+# Created at 2024-12-08T17:48:48.306
+Boot Manifest-JAR contains absolute paths in classpath 'G:\DuocUC\FS3\Sumativa2\usuarios\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
